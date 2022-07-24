@@ -1,0 +1,32 @@
+#container{
+  height: 500px;
+  width: 500px;
+  background-color: lightgrey;
+  display: flex;
+  /* align-items: center; */
+  /* align-items: flex-start; */
+  /* align-items: flex-end; */
+  /* align-items: stretch; */
+  align-items: baseline;
+}
+
+#container div{
+  height: 100px;
+  /* height: auto; */
+  width: 100px;
+}
+
+#div1 {
+  background-color: red;
+  margin: 10px;
+}
+
+#div2 {
+  background-color: cyan;
+  margin: 20px;
+}
+
+#div3 {
+  background-color: green;
+  margin: 30px;
+}
