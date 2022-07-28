@@ -11,3 +11,5 @@ Using flex in CSS to style Webpage:
   10) 4-flexjustify.css --> css file for 4-flexjustify.html (linked to 4-flexjustify.html).
   11) 5-flexalign.html --> understanding how align-items works in flex (linked to 5-flexalign.css).
   12) 5-flexalign.css --> css file for 5-flexalign.html (linked to 5-flexalign.html).
+  13) 6-overflowwrap.html --> understanding how overflow wrap works in web page (linked to 6-overflowwrap.css)
+  14) 6-overflowwrap.css --> css file for 6-overflowwrap.html (linked to 6-overflowwrap.html).
