@@ -1,0 +1,10 @@
+#container{
+  height: 400px;
+  width: 400px;
+  /* background-image: linear-gradient(red,blue); */
+  /* background-image: linear-gradient(red,cyan,blue); */
+  /* background-image: linear-gradient(red,blue 30%); */
+  /* background-image: linear-gradient(to top right,red,blue); */
+  /* background-image: repeating-linear-gradient(red,blue 10px); */
+  background-image: radial-gradient(red,blue)
+}
