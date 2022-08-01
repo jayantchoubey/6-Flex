@@ -17,3 +17,5 @@ Using flex in CSS to style Webpage:
   16) 7-gradient.css --> css file for 7-gradient.html (linked to 7-gradient.html).
   17) 8-linkpseudo.html --> link pseudo-class in html (linked to 8-linkpseudo.css).
   18) 8-linkpseudo.css --> css file for 8-linkpseudo.html (linked to 8-linkpseudo.html).
+  19) 9-lightbox.html --> making a lightbox using target pseudo class in css (linked to 9-lightbox.css).
+  20) 9-lightbox.css --> css file for 9-lightbox.html (linked to 9-lightbox.html).
