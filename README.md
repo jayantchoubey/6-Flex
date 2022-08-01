@@ -15,3 +15,5 @@ Using flex in CSS to style Webpage:
   14) 6-overflowwrap.css --> css file for 6-overflowwrap.html (linked to 6-overflowwrap.html).
   15) 7-gradient.html --> understanding several types of gradients (linked to 7-gradient.css).
   16) 7-gradient.css --> css file for 7-gradient.html (linked to 7-gradient.html).
+  17) 8-linkpseudo.html --> link pseudo-class in html (linked to 8-linkpseudo.css).
+  18) 8-linkpseudo.css --> css file for 8-linkpseudo.html (linked to 8-linkpseudo.html).
