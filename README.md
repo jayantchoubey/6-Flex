@@ -13,3 +13,5 @@ Using flex in CSS to style Webpage:
   12) 5-flexalign.css --> css file for 5-flexalign.html (linked to 5-flexalign.html).
   13) 6-overflowwrap.html --> understanding how overflow wrap works in web page (linked to 6-overflowwrap.css)
   14) 6-overflowwrap.css --> css file for 6-overflowwrap.html (linked to 6-overflowwrap.html).
+  15) 7-gradient.html --> understanding several types of gradients (linked to 7-gradient.css).
+  16) 7-gradient.css --> css file for 7-gradient.html (linked to 7-gradient.html).
